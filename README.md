@@ -5,8 +5,10 @@ It is not much, I just wanted something to visualize my disk-usage without downl
 
 HOW TO USE:
 
-Just enter the path to the directory you want to analyze. Hit 'Enter' and the program is doing the rest. The name of every directory which size has been
-calculated will be printed on the console, so you can see the progress (and so that you don't think it has crashed. No guarantee for that btw.)
+Just enter the path to the directory you want to analyze (Format is e.g.: C:/Dir1/...). Hit 'Enter' and the program is doing the rest. 
+
+The name of every directory which size has been calculated will be printed on the console, so you can see the progress (and so that you don't think it has 
+crashed. No guarantee for that btw.)
 
 Here is an example of how the result might look like:
 ![grafik](https://user-images.githubusercontent.com/95371658/201222301-5fc8ece1-7404-4efd-9f14-85d720bcdd74.png)
