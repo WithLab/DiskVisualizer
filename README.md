@@ -19,8 +19,8 @@ Here is an example of how the result might look like:
 NOTES:
 
 This is the first version of the program. I just needed a basic visualizer for my disk-usage, so the motto was 'quick and dirty'. That's the reason why
-the text-representation looks awful and the actual size of the directorys is not 100% accurate. I may be try to improve it (e.g. better text, more accurate
-sizes etc.) 
+the text-representation looks awful and the actual size of the directorys is not 100% accurate. I try to improve it in the future (e.g. better text, more
+accurate sizes etc.) 
 
 
 
