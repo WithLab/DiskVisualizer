@@ -10,6 +10,7 @@ calculated will be printed on the console, so you can see the progress (and so t
 
 Here is an example of how the result might look like:
 ![grafik](https://user-images.githubusercontent.com/95371658/201222301-5fc8ece1-7404-4efd-9f14-85d720bcdd74.png)
+
 (I know the text-representation is awful)
 
 
@@ -20,8 +21,11 @@ the text-representation looks awful and the actual size of the directorys is not
 sizes etc.) 
 
 
+
 Used Packages:
+
 numpy (https://numpy.org/)
+
 matplotlib (https://matplotlib.org/)
 
 (No Ads!)
