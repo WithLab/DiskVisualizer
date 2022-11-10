@@ -16,5 +16,5 @@ sizes etc.)
 
 
 Used Packages:
--numpy (https://numpy.org/)
--matplotlib (https://matplotlib.org/)
+numpy (https://numpy.org/)
+matplotlib (https://matplotlib.org/)
