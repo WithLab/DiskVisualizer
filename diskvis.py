@@ -3,7 +3,7 @@ import os
 from matplotlib import pyplot as plt
 import numpy as np
 
-root = input("Please enter the path to the directory to analyze (Don't forget the '/' at the end): ")
+root = input("Please enter the path to the directory to analyze: ")
 
 sizes = []
 
