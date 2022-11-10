@@ -10,7 +10,7 @@ calculated will be printed on the console, so you can see the progress (and so t
 
 Here is an example of how the result might look like:
 ![grafik](https://user-images.githubusercontent.com/95371658/201222301-5fc8ece1-7404-4efd-9f14-85d720bcdd74.png)
-(I know the text is awful)
+(I know the text-representation is awful)
 
 
 NOTES:
