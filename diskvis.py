@@ -1,5 +1,4 @@
 import os
-
 from matplotlib import pyplot as plt
 import numpy as np
 
@@ -14,7 +13,7 @@ def calc_autopct(pct, sizes):
     return "{:.1f}%\n({:f} GB)".format(pct, size)
 
 def get_dir_size():
-    dirlist = [item for item in os.listdir(root) if os.path.isdir(os.path.join(root, item))]    #All directories in root
+    dirlist = [dir for dir in os.listdir(root) if os.path.isdir(os.path.join(root, dir))]    #All directories in root
     
     for d in dirlist:
 
@@ -29,10 +28,6 @@ def get_dir_size():
             
         sizes.append(size)
         print("Dir " + d + " analyzed")
-
-
-
-
 
 
     fig = plt.figure(figsize = (10, 7))
