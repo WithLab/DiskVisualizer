@@ -1,4 +1,4 @@
-# DiskVis
+# DiskVisualizer
 My own version of a disk usage visualizer.
 
 It is not much, I just wanted something to visualize my disk-usage without downloading a software I don't know.
